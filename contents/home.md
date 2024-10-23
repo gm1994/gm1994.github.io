@@ -1,6 +1,6 @@
 
 
-Guan is currently pursuing his PhD in Experimental Physics at RIIS, Okayama Univeristy, Japan.
+Guan is currently pursuing his PhD in Experimental Physics at <a href="http://www.riis.okayama-u.ac.jp/m/">RIIS</a>, Okayama Univeristy, Japan.
 
 #### Email
 guanming-s@s.okayama-u.ac.jp
