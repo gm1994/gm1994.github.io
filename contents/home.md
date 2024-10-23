@@ -1,8 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-Guan is currently pursuing his PhD in Experimental Physics, at Research Institute for Interdisciplinary Science , Okayama Univeristy, Japan.
+Guan is currently pursuing his PhD in Experimental Physics at RIIS, Okayama Univeristy, Japan.
 
 #### Email
 guanming-s@s.okayama-u.ac.jp
