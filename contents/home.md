@@ -14,5 +14,5 @@ B.E., Physics (Teaching), Huanggang Normal Univeristy, China, 2013-2017
 Caligraphy
 
 #### Research Interests
-AMO physics, X-ray production and detection, nuclear clock
+AMO Physics, Synchrotron Radiation, Nuclear Clock
 
